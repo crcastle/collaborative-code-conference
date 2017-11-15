@@ -55,7 +55,7 @@
     "loglevel": "1.4.0",
     "ot-text": "1.0.1",
     "twilio": "3.2.0-edge",
-    "ws": "1.1.1"
+    "ws": "1.1.5"
   },
   "engines": {
     "node": "5.10.1",
