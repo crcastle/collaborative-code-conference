@@ -54,7 +54,7 @@
     "gulf": "4.0.4",
     "loglevel": "1.4.0",
     "ot-text": "1.0.1",
-    "twilio": "3.2.0-edge",
+    "twilio": "3.2.0",
     "ws": "1.1.1"
   },
   "engines": {
