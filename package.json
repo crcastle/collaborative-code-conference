@@ -50,7 +50,7 @@
     "webpack": "^1.12.14"
   },
   "dependencies": {
-    "express": "4.14.0",
+    "express": "4.15.5",
     "gulf": "4.0.4",
     "loglevel": "1.4.0",
     "ot-text": "1.0.1",
